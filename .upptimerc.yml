@@ -33,9 +33,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/devOS-Sanity-Edition/upptime-theme/main/theme.css
+  themeUrl: https://status.devos.one/theme.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
