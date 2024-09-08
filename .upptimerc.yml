@@ -1,31 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: devOS-Sanity-Edition # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: "devOS Maven [mvn.devos.one]"
+    url: https://mvn.devos.one/releases/cat.txt
+    method: GET
+  - name: devOS Site
+    url: https://devos.one
+    assignees:
+      - asojidev
+  - name: Clipable
+    url: https://clips.devos.one
+  - name: GitLab
+    url: https://git.devos.one
+  - name: TeamCity
+    url: https://tc.devos.gay
+    expectedStatusCodes:
+      - 401 # it's not authenticated so ofc it thinks this
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.devos.one
+  # baseUrl: /upptime
+  logoUrl: https://avatars.githubusercontent.com/u/77142119?v=4
+  name: "devOS: Sanity Edition Public Status"
+  introTitle: "Welcome to the devOS Status Page!"
+  introMessage: Here you'll see the status on our various sites, and if anything has happened recently.
   navbar:
     - title: Status
       href: /
@@ -34,3 +36,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+assignees:
+  - CephalonCosmic
+  - bluebeargreen-2
