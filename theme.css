@@ -154,9 +154,13 @@ h5,
 h6,
 a {
     font-family: "Eudoxus Sans";
-    font-weight: bold;
     margin: 0 0 0.5em 0;
     line-height: 1.2;
+}
+
+h1 {
+    font-family: "Eudoxus Sans";
+    font-weight: bold;
 }
 
 div {
