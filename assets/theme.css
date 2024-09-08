@@ -146,6 +146,11 @@ div {
     border-radius: 0.5em;
 }
 
+article.up {
+  border-left-color: var(--up-border-left-color) !important;
+  color: var(--up-color-color);
+}
+
 .svelte-a08hsz {
     border-radius: 0.25em;
 }
