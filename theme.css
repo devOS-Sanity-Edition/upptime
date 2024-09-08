@@ -146,7 +146,11 @@ body {
     font-family: "Poppins";
 }
 
-h1,
+h1 {
+    font-family: "Eudoxus Sans";
+    font-weight: bold;
+}
+
 h2,
 h3,
 h4,
@@ -156,11 +160,6 @@ a {
     font-family: "Eudoxus Sans";
     margin: 0 0 0.5em 0;
     line-height: 1.2;
-}
-
-h1 {
-    font-family: "Eudoxus Sans";
-    font-weight: bold;
 }
 
 div {
