@@ -96,19 +96,19 @@
     "url": "https://libretranslate.devos.gay/",
     "icon": "https://icons.duckduckgo.com/ip3/libretranslate.devos.gay.ico",
     "slug": "libre-translate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1707,
-    "timeDay": 992,
-    "timeWeek": 1860,
-    "timeMonth": 1707,
-    "timeYear": 1707,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1654,
+    "timeDay": 954,
+    "timeWeek": 1742,
+    "timeMonth": 1654,
+    "timeYear": 1654,
     "dailyMinutesDown": {
-      "2024-09-22": 0
+      "2024-09-22": 5
     }
   }
 ]
