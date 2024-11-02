@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 501,
-    "timeDay": 538,
-    "timeWeek": 525,
-    "timeMonth": 505,
-    "timeYear": 501,
+    "time": 504,
+    "timeDay": 662,
+    "timeWeek": 557,
+    "timeMonth": 506,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2024-09-09": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 542,
-    "timeWeek": 593,
-    "timeMonth": 505,
-    "timeYear": 501,
+    "time": 500,
+    "timeDay": 427,
+    "timeWeek": 546,
+    "timeMonth": 510,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 428,
-    "timeDay": 524,
-    "timeWeek": 484,
-    "timeMonth": 446,
+    "timeDay": 394,
+    "timeWeek": 485,
+    "timeMonth": 450,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 762,
-    "timeWeek": 663,
-    "timeMonth": 622,
-    "timeYear": 614,
+    "time": 613,
+    "timeDay": 551,
+    "timeWeek": 654,
+    "timeMonth": 621,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 620,
-    "timeWeek": 552,
-    "timeMonth": 619,
+    "timeDay": 672,
+    "timeWeek": 562,
+    "timeMonth": 633,
     "timeYear": 634,
     "dailyMinutesDown": {}
   },
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5613,
-    "timeDay": 4348,
-    "timeWeek": 7244,
-    "timeMonth": 5613,
-    "timeYear": 5613,
+    "time": 5497,
+    "timeDay": 1573,
+    "timeWeek": 5854,
+    "timeMonth": 4759,
+    "timeYear": 5497,
     "dailyMinutesDown": {
       "2024-10-02": 1
     }
