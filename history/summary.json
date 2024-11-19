@@ -4,18 +4,19 @@
     "url": "https://mvn.devos.one/releases/cat.txt",
     "icon": "https://icons.duckduckgo.com/ip3/mvn.devos.one.ico",
     "slug": "dev-os-maven-mvn-devos-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 491,
-    "timeDay": 552,
+    "timeDay": 494,
     "timeWeek": 441,
-    "timeMonth": 484,
+    "timeMonth": 483,
     "timeYear": 491,
     "dailyMinutesDown": {
+      "2024-11-19": 0,
       "2024-11-15": 13,
       "2024-09-09": 25
     }
