@@ -21,6 +21,8 @@ sites:
   - name: LibreTranslate Backend
     url: https://libretranslate.devos.gay/languages
     method: GET
+  - name: Unity Hotspot
+    url: https://unitymultiplayer.online/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
