@@ -1,7 +1,7 @@
 url: https://mvn.devos.one/releases/cat.txt
-status: down
-code: 520
-responseTime: 279
-lastUpdated: 2025-09-07T08:32:38.424Z
+status: up
+code: 200
+responseTime: 538
+lastUpdated: 2025-09-07T08:45:16.002Z
 startTime: 2024-09-08T08:06:16.972Z
 generator: Upptime <https://github.com/upptime/upptime>
