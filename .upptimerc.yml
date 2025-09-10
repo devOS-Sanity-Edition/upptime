@@ -14,10 +14,10 @@ sites:
     url: https://clips.devos.one
   - name: GitLab
     url: https://git.devos.one
-  - name: TeamCity
-    url: https://tc.devos.gay
-    expectedStatusCodes:
-      - 401 # it's not authenticated so ofc it thinks this
+  # - name: TeamCity
+  #   url: https://tc.devos.gay
+  #   expectedStatusCodes:
+  #     - 401 # it's not authenticated so ofc it thinks this
   - name: LibreTranslate Backend
     url: https://libretranslate.devos.gay/languages
     method: GET
@@ -45,4 +45,4 @@ status-website:
 
 assignees:
   - CephalonCosmic
-  - bluebeargreen-2
+  # - bluebeargreen-2
