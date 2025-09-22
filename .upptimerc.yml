@@ -18,9 +18,9 @@ sites:
   #   url: https://tc.devos.gay
   #   expectedStatusCodes:
   #     - 401 # it's not authenticated so ofc it thinks this
-  - name: LibreTranslate Backend
-    url: https://libretranslate.devos.gay/languages
-    method: GET
+  # - name: LibreTranslate Backend
+  #   url: https://libretranslate.devos.gay/languages
+  #   method: GET
   - name: Unity Hotspot
     url: https://unitymultiplayer.online/
     
