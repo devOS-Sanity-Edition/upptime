@@ -10,14 +10,12 @@ sites:
     url: https://devos.one
     assignees:
       - asojidev
-  - name: Clipable
-    url: https://clips.devos.one
-  - name: GitLab
+  - name: Git
     url: https://git.devos.one
-  # - name: TeamCity
-  #   url: https://tc.devos.gay
-  #   expectedStatusCodes:
-  #     - 401 # it's not authenticated so ofc it thinks this
+  - name: TeamCity
+    url: https://tc.devos.gay
+    expectedStatusCodes:
+      - 401 # it's not authenticated so ofc it thinks this
   # - name: LibreTranslate Backend
   #   url: https://libretranslate.devos.gay/languages
   #   method: GET
