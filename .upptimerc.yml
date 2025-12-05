@@ -13,7 +13,7 @@ sites:
   - name: Git
     url: https://git.devos.one
   - name: TeamCity
-    url: https://tc.devos.gay
+    url: https://tc.devos.one
     expectedStatusCodes:
       - 401 # it's not authenticated so ofc it thinks this
   # - name: LibreTranslate Backend
